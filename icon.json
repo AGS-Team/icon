@@ -21,7 +21,7 @@
 }
 
 .icon-Operational {
-	background: url('https://raw.githubusercontent.com/AGS-Team/icon/main/airport-location.png') center center no-repeat;
+	background: url('https://raw.githubusercontent.com/AGS-Team/icon/main/airport-location-Operational.png') center center no-repeat;
 }
 
 .icon-Non-operational {
